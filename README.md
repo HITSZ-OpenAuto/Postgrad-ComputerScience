@@ -5,22 +5,13 @@
 
 <!-- TOML-COURSES-START -->
 
-## COMP5075 - 人工智能安全
+## 人工智能安全
 <!-- TOML-COURSE: code="" name="人工智能安全" -->
-
-<!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂汇报40%](https://img.shields.io/badge/课堂汇报-40%25-wheat)
-![期末报告60%](https://img.shields.io/badge/期末报告-60%25-wheat)
 
 ### 授课教师
 
-<!-- TOML-LECTURERS: part="items" -->
 - 罗文坚
-  <!-- TOML-ITEM: id="review-罗文坚-1" has_author="true" -->
-  - 授课风格：不考勤，但上课时会与学生进行**巨量**互动。除讲课内容外，会穿插一些学术研究的思路。  
+  - 授课风格：不考勤，但上课时会与学生进行**巨量**互动。除讲课内容外，会穿插一些学术研究的思路。
   - 课程汇报时，老师和助教都会提问。
     > 文 / [345ljh](https://www.github.com/345ljh)，2026-09
 
@@ -47,8 +38,8 @@
 | 15 | 人工智能公平与价值对齐 |
 | 16 | 人工智能伦理与治理 |
 
-
 ### 关于考试
+
 <!-- TOML-SECTION: title="关于考试" -->
 
 <!-- TOML-ITEM: id="item-关于考试-1" has_author="true" -->
@@ -63,25 +54,17 @@
     - 建议大家重点介绍：研究背景与问题定义，相关工作与研究动机，核心方法与技术路线，实验结果与效果分析，存在的问题与个人思考。
 - 期末报告
   - 可采用论文、技术报告、实验报告、竞赛报告等形式，字数不少于 3000字。
+
 > 文 / [345ljh](https://www.github.com/345ljh)，2026-09
 
-## COMP5045 - 社交网络分析  
-
-<!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂出勤10%](https://img.shields.io/badge/课堂出勤-10%25-wheat)
-![课程汇报30%](https://img.shields.io/badge/课程汇报-30%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
+## COMP5045 - 社交网络分析
+<!-- TOML-COURSE: code="COMP5045" name="社交网络分析" -->
 
 ### 授课教师
 
-<!-- TOML-LECTURERS: part="items" -->
-- 李旭涛  
-  <!-- TOML-ITEM: id="review-李旭涛-1" has_author="true" -->
-  - 授课风格：对于课程中涉及的算法与公式，多数会详细讲解与推导。  
-  - 考勤过一次。  
+- 李旭涛
+  - 授课风格：对于课程中涉及的算法与公式，多数会详细讲解与推导。
+  - 考勤过一次。
     > 文 / [345ljh](https://www.github.com/345ljh)，2026-09
 
 ### 课程内容
@@ -107,6 +90,7 @@
 | 15 | 通过网络传播结果，反推网络的传播链 |
 
 ### 关于考试
+
 <!-- TOML-SECTION: title="关于考试" -->
 
 <!-- TOML-ITEM: id="item-关于考试-1" has_author="true" -->
@@ -119,5 +103,6 @@
   - 26春的汇报在考试后3天。  
 - 期末考试  
   - 全开卷，试题全英文且使用英文作答。```note```文件夹仍放置了A4纸方便考试翻阅查找  
-  - 考试以概念、原理为主（例如会要求写出某些算法的步骤、思想或公式），没有计算。  
-> 文 / [345ljh](https://www.github.com/345ljh)，2026-09  
+  - 考试以概念、原理为主（例如会要求写出某些算法的步骤、思想或公式），没有计算。
+
+> 文 / [345ljh](https://www.github.com/345ljh)，2026-09
