@@ -1,0 +1,62 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794023124,
+    "hash": "76f3e697075d9256a4528604ed1a8fb3bb905784"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1788144964,
+    "hash": "a0072459c2a6b4de53a37edcf8bc495ec8b5a348"
+  },
+  "README.md": {
+    "size": 4471,
+    "time": 1788534556,
+    "hash": "d8ab7987b28a3ed5c1be6fe30d7ad5c94ae0bf9d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1788144964,
+    "hash": "a0072459c2a6b4de53a37edcf8bc495ec8b5a348"
+  },
+  "assignments/社交网络分析-课程项目.zip": {
+    "size": 2031519,
+    "time": 1788534544,
+    "hash": "20ccd2189fcb44bbbd783be6fd75b515d3da5224"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1788144964,
+    "hash": "a0072459c2a6b4de53a37edcf8bc495ec8b5a348"
+  },
+  "exams/26春《社交网络分析》试题回忆版.docx": {
+    "size": 16165,
+    "time": 1788534544,
+    "hash": "20ccd2189fcb44bbbd783be6fd75b515d3da5224"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1788144964,
+    "hash": "a0072459c2a6b4de53a37edcf8bc495ec8b5a348"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1788144964,
+    "hash": "a0072459c2a6b4de53a37edcf8bc495ec8b5a348"
+  },
+  "notes/社交网络分析-考试A4纸.pptx": {
+    "size": 765451,
+    "time": 1788534544,
+    "hash": "20ccd2189fcb44bbbd783be6fd75b515d3da5224"
+  },
+  "readme.toml": {
+    "size": 4888,
+    "time": 1788534556,
+    "hash": "d8ab7987b28a3ed5c1be6fe30d7ad5c94ae0bf9d"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1788144964,
+    "hash": "a0072459c2a6b4de53a37edcf8bc495ec8b5a348"
+  }
+}
